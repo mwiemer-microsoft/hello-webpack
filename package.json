@@ -6,6 +6,7 @@
   "scripts": {
     "build": "webpack"
   },
+  "sideEffects": false,
   "keywords": [],
   "author": "",
   "license": "ISC",
